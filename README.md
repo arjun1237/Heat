@@ -1,4 +1,4 @@
-# Heat
+# Heat - SCRUM methodology
 Java Based project -  Haskell learning tool for visually impaired
 
 My contribution was HIGH Contrast coloring and larger fonts for the visually impaired.
